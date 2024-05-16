@@ -1,0 +1,7 @@
+C:\Users\alexa\source\repos\Vehiculos_g3\Vehiculos_g3\bin\Debug\Vehiculos_g3.exe.config
+C:\Users\alexa\source\repos\Vehiculos_g3\Vehiculos_g3\bin\Debug\Vehiculos_g3.exe
+C:\Users\alexa\source\repos\Vehiculos_g3\Vehiculos_g3\bin\Debug\Vehiculos_g3.pdb
+C:\Users\alexa\source\repos\Vehiculos_g3\Vehiculos_g3\obj\Debug\Vehiculos_g3.csprojAssemblyReference.cache
+C:\Users\alexa\source\repos\Vehiculos_g3\Vehiculos_g3\obj\Debug\Vehiculos_g3.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\Vehiculos_g3\Vehiculos_g3\obj\Debug\Vehiculos_g3.exe
+C:\Users\alexa\source\repos\Vehiculos_g3\Vehiculos_g3\obj\Debug\Vehiculos_g3.pdb
